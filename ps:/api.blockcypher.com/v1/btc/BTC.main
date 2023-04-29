@@ -1,0 +1,18 @@
+curl https://api.blockcypher.com/v1/btc/main
+
+{
+  "name": "BTC.main",
+  "height": 360060,
+  "hash": "000000000000000000bf56ff4a81e399374a68344a64d6681039412de78366b8",
+  "time": "2015-06-08T22:57:08.260165627Z",
+  "latest_url": "https://api.blockcypher.com/v1/btc/main/blocks/000000000000000000bf56ff4a81e399374a68344a64d6681039412de78366b8",
+  "previous_hash": "000000000000000011c9511ae1265d34d3c16fff6e8f94380425833b3d0ae5d8",
+  "previous_url": "https://api.blockcypher.com/v1/btc/main/blocks/000000000000000011c9511ae1265d34d3c16fff6e8f94380425833b3d0ae5d8",
+  "peer_count": 239,
+  "unconfirmed_count": 617,
+  "high_fee_per_kb": 46086,
+  "medium_fee_per_kb": 29422,
+  "low_fee_per_kb": 12045,
+  "last_fork_height": 359865,
+  "last_fork_hash": "00000000000000000aa6462fd9faf94712ce1b5a944dc666f491101c996beab9"
+}
